@@ -2,8 +2,8 @@
 <br>
 
 <h3>Projeto desenvolvido a partir dos estudos de CSS do <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</h3>
-<h6>Projeto feito utilizando HTML e estilizado com o CSS, com objetivo de deixá-lo responsivo para visualização em desktop e mobile,
-bem como aplicação de pseudo-elementos e pseudo-classes.</h6>
+<h6>O projeto foi desenvolvido utilizando HTML e estilizado com o CSS, fazendo aplicação de pseudo-elementos e pseudo-classes,
+também com objetivo de deixá-lo responsivo para visualização em desktop e mobile.</h6>
 <br>
 <h3>Tecnologias utilizadas: </h3>
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,10 +11,10 @@ bem como aplicação de pseudo-elementos e pseudo-classes.</h6>
 <br>
 <br>
 
-<h4>A ilustração mostra a responsividade do projeto, ou seja, como o mesmo se adapta ao desktop ou mobile.</h4>
+<h4>A ilustração abaixo mostra a responsividade do projeto para visualização em desktop ou mobile.</h4>
 <br>
 
-<img src="https://github.com/PitterBonoto/We-care/blob/main/We%20care%20-%20Desktop.png?raw=true" width="410px">
+<img src="https://github.com/PitterBonoto/Easy-shopping/blob/master/Easy%20Shopping%20-%20Desktop%20e%20Mobile.png?raw=true" width="800px" alt="projeto-easy-shopping-desktop-e-mobile">
 
 
 
